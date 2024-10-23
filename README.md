@@ -1,5 +1,5 @@
 # products
-<상품>
+#API 설계
 |기능|매서드|URI|method|view|redirect URI|
 |--------|-----|-----|-----|------|-------|
 |상품 목록 조회|get|/products?action=list|list()|productList.jsp|
